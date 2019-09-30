@@ -5,3 +5,10 @@ C:\Users\Angelo\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.
 C:\Users\Angelo\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
 C:\Users\Angelo\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
 C:\Users\Angelo\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.pdb
