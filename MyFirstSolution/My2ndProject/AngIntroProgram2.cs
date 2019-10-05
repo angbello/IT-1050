@@ -4,64 +4,62 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstProject
+namespace My2ndProject
 {
-    class BeginnerAngelo
+    class AngIntroProgram2
     {
         static void Main(string[] args)
         {
+            ////////  Differentiating this 2nd program from the 1st by:  
+            /////////////////// -Making compound statements
+            /////////////////// -Using declared variables to compute the height (instead of #'s)
+            
             ////////  Here are the tasks
             // #1: compute the full name (string)
             // #2: compute the height in CM (double)
             // #3: compute if you can vote (bool)
 
-            string firstName;
-            string middleInitial;
-            string lastName;
-            string fullName;
-            int age;
-            bool isCitizen;
-            bool canVote;
-            int heightFeet;
-            double heightInches;
-            double totalHeightCentimeters;
 
             //////// Here's #1: Compute the full name
 
             Console.Write("What is your first name?");
-            firstName = Console.ReadLine();
+            string firstName = Console.ReadLine();
 
             Console.Write("And what is your middle initial?");
-            middleInitial = Console.ReadLine();
+            string middleInitial = Console.ReadLine();
 
             Console.Write("And what is your last name?");
-            lastName = Console.ReadLine();
+            string lastName = Console.ReadLine();
 
-            fullName = firstName + " " + middleInitial + " " + lastName;
+            string fullName = firstName + " " + middleInitial + " " + lastName;
             Console.WriteLine(fullName);
 
 
             //////// Here's #2:  Compute the height in centimeters
-            
+
             Console.Write("How tall are you? (in feet)");
-            heightFeet = int.Parse(Console.ReadLine());
+            int heightFeet = int.Parse(Console.ReadLine());
 
             Console.Write("How many more inches in addition to those feet?");
-            heightInches = double.Parse(Console.ReadLine());
+            double heightInches = double.Parse(Console.ReadLine());
 
-            totalHeightCentimeters = ((12 * heightFeet) + heightInches) * 2.54;
+            int inchesEqualsFoot = 12;
+
+            double CMequalsInch = 2.54;
+
+            double totalHeightCentimeters = ((inchesEqualsFoot * heightFeet) + heightInches) * CMequalsInch;
             Console.WriteLine(totalHeightCentimeters);
 
 
             //////// Here's #3:  Compute whether or not you can vote
 
             Console.Write("What is your age?");
-            age = int.Parse(Console.ReadLine());
+            int age = int.Parse(Console.ReadLine());
 
             Console.Write("Are you a United States citizen?");
-            isCitizen = Console.ReadLine().ToLower().StartsWith("y");
+            bool isCitizen = Console.ReadLine().ToLower().StartsWith("y");
 
-            canVote = isCitizen && age >= 18;
+            bool canVote = isCitizen && age >= 18;
 
             Console.WriteLine(fullName);
             Console.WriteLine(totalHeightCentimeters);
