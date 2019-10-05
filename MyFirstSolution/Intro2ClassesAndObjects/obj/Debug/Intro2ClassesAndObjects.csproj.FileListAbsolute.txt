@@ -1,0 +1,7 @@
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\bin\Debug\Intro2ClassesAndObjects.exe.config
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\bin\Debug\Intro2ClassesAndObjects.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\bin\Debug\Intro2ClassesAndObjects.pdb
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\obj\Debug\Intro2ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\obj\Debug\Intro2ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\obj\Debug\Intro2ClassesAndObjects.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\Intro2ClassesAndObjects\obj\Debug\Intro2ClassesAndObjects.pdb

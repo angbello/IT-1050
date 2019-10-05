@@ -1,0 +1,7 @@
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\obj\Debug\My2ndProject.csprojAssemblyReference.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\obj\Debug\My2ndProject.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\bin\Debug\My2ndProject.exe.config
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\bin\Debug\My2ndProject.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\bin\Debug\My2ndProject.pdb
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\obj\Debug\My2ndProject.exe
+C:\Users\Angelo\Desktop\IT-1050\MyFirstSolution\My2ndProject\obj\Debug\My2ndProject.pdb
